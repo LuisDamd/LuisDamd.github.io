@@ -1,12 +1,16 @@
 * {
-  background-color:#2E4770;
-  color:#ECC6A2;
-}
+    background-color:#2E4770;
+    color:#ECC6A2;
+  }
+  
+  h1, h3, h4 {
+    color: #ECA089;
+  }
+  
+  a {
+    color: #CE5E82;
+  }
 
-h1, h3, h4 {
-  color: #ECA089;
-}
-
-a {
-  color: #CE5E82;
-}
+  table {
+      border: 1;
+  }
