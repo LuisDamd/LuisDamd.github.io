@@ -1,6 +1,7 @@
 * {
     background-color:#2E4770;
     color:#ECC6A2;
+    overflow: auto;
   }
   
   h1, h3, h4 {
@@ -11,6 +12,10 @@
     color: #CE5E82;
   }
 
-  table {
-      border: 1;
+  table, th, td {
+      border: 1px solid;
+  }
+
+  #side {
+    float: right;
   }
